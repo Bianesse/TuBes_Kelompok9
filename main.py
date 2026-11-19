@@ -1,6 +1,9 @@
 print("Hello World")
 print("This is a sample Python script.")
 print("This is a sample Python script.")
+
+print("HAHAHAHAHAHAHAHHAHA")
+
 print("This is a sample Python script.")
 print("Hi")
 print("This is a sample Python script.")
